@@ -1,0 +1,11 @@
+assets/Flying[[:space:]]pterodactyl.glb filter=lfs diff=lfs merge=lfs -text
+assets/Rock[[:space:]]fountain.glb filter=lfs diff=lfs merge=lfs -text
+assets/city1.glb filter=lfs diff=lfs merge=lfs -text
+assets/concrete_cat_statue_4k.glb filter=lfs diff=lfs merge=lfs -text
+assets/halloweenMaple.glb filter=lfs diff=lfs merge=lfs -text
+assets/island_tree_01.glb filter=lfs diff=lfs merge=lfs -text
+assets/mossy_logo.glb filter=lfs diff=lfs merge=lfs -text
+assets/plinth_02.glb filter=lfs diff=lfs merge=lfs -text
+assets/rock_moss_set_02_4k_01.glb filter=lfs diff=lfs merge=lfs -text
+assets/rock_moss_set_02_4k_02.glb filter=lfs diff=lfs merge=lfs -text
+assets/rock_moss_set_02_4k_07.glb filter=lfs diff=lfs merge=lfs -text
