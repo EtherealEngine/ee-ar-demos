@@ -1,1 +1,3 @@
-# ee-ar-demos
+### Ethereal Engine Project
+
+This is an Ethereal Engine project.
