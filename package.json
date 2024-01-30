@@ -7,7 +7,6 @@
     "version": "1.4.0"
   },
   "scripts": {
-    "test": "mocha --config .mocharc.js",
     "format": "prettier --write \"**/*.{ts,tsx}\"",
     "format-scss": "stylelint \"**/*.scss\" --fix",
     "format-staged": "lint-staged",
